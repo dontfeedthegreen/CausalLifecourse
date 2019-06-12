@@ -1,5 +1,7 @@
 # CausalLifecourse
 # Template R code for estimating causal effects from lifecourse data
+# specifically, this is designed for situations where you have:
+# repeated measures of exposure and an outcome occuring later
 
 # currently based on having access to a data file that I'm using locally
 # you would need to replace with your own data file and edit variable names etc accordingly
