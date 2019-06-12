@@ -10,3 +10,6 @@
 # suggestions for refining the syntax are very welcome
 # if you use it, a citation/acknowledgement would be nice! 
 
+The R file is the code, the PDF is the poster I created for SER2019 using the code.
+
+
