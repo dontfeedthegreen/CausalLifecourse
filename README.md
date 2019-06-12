@@ -1,5 +1,5 @@
 # CausalLifecourse
-Template R code for estimating causal effects from lifecourse data.
+Template R code for estimating causal effects from lifecourse data (assuming no unmeasured confounding).
 Specifically, this is designed for situations where you have:
 repeated measures of exposure and an outcome occuring later
 
